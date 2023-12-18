@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "HBLNGhXdzlFu1dDgTsKxJZu+YmPthFvPj5eTWa0MkBOtE1OAkd1xTlIZe4zxNwXYIJqP+sODwJ9Dun2dexPOKA==",
+  "success": true,
+  "projectFilePath": "D:\\STIMATA\\SKRIPSI\\CVScreening\\CVScreening.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://r3app-server.ad-ins.com:5500/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://r3app-server.ad-ins.com:5400/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
